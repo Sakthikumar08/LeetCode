@@ -1,17 +1,9 @@
-function checkIfExist(arr) {
-    const seen = new Set();
-    for (const num of arr) {
-        if (seen.has(2 * num) || (num % 2 === 0 && seen.has(num / 2))) {
-            return true;
-        }
-        seen.add(num);
+var checkIfExist = function(arr) {
+    let set = new Set()
+    for(let i=0;i<arr.length;i++){
+        if(set.has(arr[i]*2))return true
+        if(set.has(arr[i]/2))return true
+        set.add(arr[i])
     }
-    return false;
-}
-
-// Example usage
-const arr1 = [10, 2, 5, 3];
-const arr2 = [3, 1, 7, 11];
-
-console.log(checkIfExist(arr1)); // Output: true
-console.log(checkIfExist(arr2)); // Output: false
+    return false
+};
