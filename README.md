@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Sakthikumar08/LeetCode/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sakthikumar08/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sakthikumar08/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sakthikumar08/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Sakthikumar08/LeetCode/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sakthikumar08/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
 |  |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Sakthikumar08/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Sakthikumar08/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
