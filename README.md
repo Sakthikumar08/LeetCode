@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sakthikumar08/LeetCode/tree/master/0001-two-sum) |
 | [0368-largest-divisible-subset](https://github.com/Sakthikumar08/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Sakthikumar08/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sakthikumar08/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sakthikumar08/LeetCode/tree/master/0001-two-sum) |
 | [0768-partition-labels](https://github.com/Sakthikumar08/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sakthikumar08/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sakthikumar08/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
